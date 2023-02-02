@@ -1,0 +1,15 @@
+problem WFG1
+seed 142
+number_decision_variables 24
+number_position_variables 4
+number_distance_variables 20
+maxgen 10
+outputfile wfg_output.txt
+individual_mutation_probability 1
+individual_recombination_probability 1
+variable_mutation_probability 1
+variable_swap_probability 0.5
+variable_recombination_probability 1
+eta_mutation 20
+eta_recombination 15
+use_symmetric_recombination 1
